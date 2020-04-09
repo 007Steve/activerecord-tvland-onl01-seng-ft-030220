@@ -6,3 +6,4 @@ class 005CreateCharacter < ActiveRecord::Migration[5.2]
       t.string :show_id
   end
 end
+end
