@@ -1,4 +1,6 @@
 class Show < ActiveRecord::Base
-  def authenticate_or_request_with_http_digest
+  def actors_list
+    
+  end
   
 end
